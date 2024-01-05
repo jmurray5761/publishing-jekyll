@@ -1,4 +1,4 @@
-# Cast
+<h1 style="color:red; font-size: 5em>
 
 | [Home](index.md) | [Collectibles](Collectibles.md)
 
